@@ -1,0 +1,9 @@
+streamlit
+pandas
+matplotlib
+seaborn
+tabulate
+nltk
+tqdm
+textblob
+googletrans==4.0.0-rc1 
